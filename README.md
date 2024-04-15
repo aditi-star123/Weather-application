@@ -22,7 +22,7 @@ Additional description about the project and its features.
 - JAVASCRIPT
 - NPM
 - WEBPACK
-- BOOTSTRAP
+- BOOTSTRAP,react
 - GITHUB ACTIONS
 
 ## Live Demo
@@ -50,14 +50,7 @@ Clone the repository unto your local machine cd to the folder.
 
 - Add extra functionality and a contact page.
 
-## Author
 
-👤 DEVANSH
-- Github: [@devansh-abes](https://github.com/devansh-abes) 
-
-- Linkedin: [Devansh.](https://www.linkedin.com/in/devansh-33871424a/) 
-
-## Show your support
 
 Give a ⭐️ if you like this project!
 
